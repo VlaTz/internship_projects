@@ -9,4 +9,5 @@ factory_2_net - эксперимент с нейросетью
 
 Нейросеть предсказывает чуть лучше, чем линейная регрессия
 
-**https://github.com/VlaTz/internship_projects/blob/main/factory_2/динамика%20предприятие%202.png
+
+![alt text](https://github.com/VlaTz/internship_projects/blob/main/factory_2/динамика%20предприятие%202.png)
